@@ -28,6 +28,8 @@
     guifont = "Hack:h10"
 
     bootstrap_before = "customconfig#before" 
+    bootstrap_after = "customconfig#after" 
+
     filemanager = "nerdtree"
     filetree_direction = "left"
     
